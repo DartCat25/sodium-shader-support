@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.dartcat25.mods.sodiumss.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "MixinShaderLoader",
+    "MixinGLProgram"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

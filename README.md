@@ -1,4 +1,4 @@
-## Sodium Shader Support (1.19.3)
+## Sodium Shader Support (1.19.4)
 Sodium, as good render optimization mod, changes vanilla block shaders to its own but it didn't provide changing these shaders throught resource packs.
 
 This mod provides changes of sodium shader by resource pack.
